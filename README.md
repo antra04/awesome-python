@@ -117,7 +117,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
 * [jet-bridge](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 * [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
-* [streamlit](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+* [streamlit](https://github.com/streamlit/streamlit) - A framework that lets you build dashboards, generate reports, or create chat apps in minutes.
 
 ## Algorithms and Design Patterns
 
@@ -204,7 +204,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for enhancing Python built-in classes.*
 
 * [attrs](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
-* [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality..
+* [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.
 * [box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access.
 * [dataclasses](https://docs.python.org/3/library/dataclasses.html) - (Python standard library) Data classes.
 * [dotteddict](https://github.com/carlosescri/DottedDict) - A library that provides a method of accessing lists and dicts with a dotted path notation.
@@ -380,7 +380,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [pymysql](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 * PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
     * [psycopg](https://github.com/psycopg/psycopg) - The most popular PostgreSQL adapter for Python.
-* SQlite - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
+* SQLite - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
     * [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0.
     * [sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
 * Other Relational Databases
@@ -610,7 +610,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [cssutils](https://pypi.org/project/cssutils/) - A CSS library for Python.
 * [html5lib](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 * [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
-* [markupsafe](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
+* [markupsafe](https://github.com/pallets/markupsafe) - Implements an XML/HTML/XHTML Markup safe string for Python.
 * [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 * [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
